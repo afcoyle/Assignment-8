@@ -1,0 +1,46 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 497"
+author: "Aidan Coyle, afcoyle@uw.edu" 
+date: "3/7/2021"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About me | Personal
+
+- Born in Chicago, Illinois
+- Favorite food: Salty licorice (the saltier the better)
+- Favorite animal: Raccoon
+
+## About me | Academic
+
+- Undergrad institution: Bowdoin College
+- Undergrad major: Biology
+
+## About me | Things I've missed during the pandemic
+
+1) Being around people!
+2) Going to concerts
+3) Going out to restaurants
+
+# Data Science
+
+## Course Topics | 3 things I enjoyed learning about
+
+1) How to integrate GitHub and RStudio
+2) Best practices for data management
+3) How to build R packages!
+
+## Course Topics | 3 things I'd like to learn more about
+
+1) Building Shiny apps!
+2) How to use Git for version control
+3) Everything that SQL can do
+
+## {data-background=Pet-Raccoons.png data-background-size=cover}
